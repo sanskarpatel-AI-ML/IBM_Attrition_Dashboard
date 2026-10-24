@@ -48,9 +48,13 @@ The dashboard includes visualizations covering:
 * Practice dashboard design, data analysis, and KPI reporting.
 * Communicate workforce insights through clear visualizations.
 
-## 🚀 How to View
+## 🚀 View the Project
 
-The dashboard screenshot is available in this repository.
+* **Dashboard Preview:** View the dashboard screenshot above.
+* **GitHub Repository:** Explore the project documentation in this repository.
+* **Power BI Report:** [Open the interactive report](https://app.powerbi.com/reportEmbed?reportId=e45cebf6-d40b-4469-87db-24e1ab5572ad&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f).
+*  Microsoft sign-in may be required.
+
 
 **Power BI Report:** The interactive report is published to Power BI Service, but the current link requires Microsoft sign-in. Public access has not yet been enabled.
 
